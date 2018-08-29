@@ -1,10 +1,12 @@
 # Logs
 logs
 *.log
+project.config*
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+#image
+image
 # Runtime data
 pids
 *.pid
